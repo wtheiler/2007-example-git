@@ -9,3 +9,5 @@ function add(a, b) {
 function log(message) {
     console.log(message)
 }
+
+const test = "new feature b"
